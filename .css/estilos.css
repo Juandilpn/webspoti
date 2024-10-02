@@ -1,0 +1,20 @@
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #f2f5a1; /* Cambia el color de fondo aquí */
+    text-align: center;
+    padding: 20px;} 
+h1 {
+        font-size: 60px; /* Cambia el tamaño del título aquí */
+        color: #1e522b; /* Cambia el color del título aquí */
+    }
+
+h2{
+    font-size: 40px; 
+    color: #1e522b; 
+}
+
+p {
+    font-size: 20px; 
+    color: #000000;
+}
