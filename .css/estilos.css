@@ -1,48 +1,42 @@
 body {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: #f2f5a1; /* Cambia el color de fondo aquí */
-    text-align: center;
-    padding: 20px;} 
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: #f2f5a1; /* Cambia el color de fondo aquí */
+  text-align: center;
+  padding: 20px;} 
 h1 {
-        font-size: 60px; /* Cambia el tamaño del título aquí */
-        color: #1e522b; /* Cambia el color del título aquí */
-    }
+      font-size: 60px; /* Cambia el tamaño del título aquí */
+      color: #1e522b; /* Cambia el color del título aquí */
+  }
 
 h2{
-    font-size: 40px; 
-    color: #1e522b; 
+  font-size: 40px; 
+  color: #1e522b; 
 }
 
 p {
-    font-size: 20px; 
-    color: #000000;
+  font-size: 22px; 
+  color: #000000;
 }
 
 body {
-    background-image: url('');
-    background-size: cover;
-    background-attachment: fixed;
-  }
-  body {
-    position: relative;
-  }
-  
-  body {
-    position: relative;
-    margin: 0;
-    padding: 0;
-  }
-  
-  body {
-    background-image: url('https://img.freepik.com/vector-gratis/fondo-floral-plantas_52683-60283.jpg'); /* Ruta de la imagen de fondo */
-    background-size: cover; /* Hace que la imagen cubra todo el fondo */
-    background-position: center; /* Centra la imagen */
-    background-repeat: no-repeat; /* Evita que la imagen se repita */
-    height: 100vh; /* Asegura que el fondo cubra toda la altura de la ventana */
-    margin: 0;
-    padding: 0;
-  }
-  
-  
-  
-  
+  background-image: url('');
+  background-size: cover;
+  background-attachment: fixed;
+}
+body {
+  position: relative;
+}
+
+body {
+  position: relative;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url('https://img.freepik.com/vector-gratis/fondo-floral-plantas_52683-60283.jpg'); /* Ruta de la imagen de fondo */
+  background-size: cover; /* Hace que la imagen cubra todo el fondo */
+  background-position: center; /* Centra la imagen */
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+  height: 100vh; /* Asegura que el fondo cubra toda la altura de la ventana */
+  margin: 0;}
